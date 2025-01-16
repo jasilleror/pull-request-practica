@@ -1,2 +1,2 @@
-# pull-request-practica
-Esto es una prueba de documentación
+ARCHIVO DE PRUEBA
+GIT ES UNA HERRAMIENTA
